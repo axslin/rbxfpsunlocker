@@ -1,9 +1,8 @@
 # Usage
 
 1. Download the latest release
-2. Extract rbxfpsunlocker-x64.zip into a folder
-3. Run rbxfpsunlocker.exe before or after starting Roblox
-4. Enjoy those beautiful frames 👌
+2. Run rbxfpsunlocker.exe before or after starting Roblox
+3. Enjoy those beautiful frames 👌
 
 # Submitting an Issue
 
